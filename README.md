@@ -29,6 +29,8 @@
  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Qartey/Qart_Md/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
+#     CONTACT NUMBER
 
-<a href="https://wa.me/+255693629079-INFO"><img title="CONTACT-Elon" src="https://img.shields.io/badge/CONTACT-Qart_Md?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+
+<a href="https://wa.me/+255693629079-INFO"><img title="CONTACT-Elon" src="https://img.shields.io/badge/CONTACT-Qart-Md?color=green&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
 
